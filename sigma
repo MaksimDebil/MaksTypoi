@@ -1,0 +1,20 @@
+<html>
+    <title>Продажа свиней</title>
+    <header style="font-size:20px;background-color:#FF69B4"><img src="https://s0.rbk.ru/v6_top_pics/media/img/8/32/754598726300328.jpeg" width="40px" height="40px"/>Здравствуйте! Мы компания по продаже свиней!
+        <a href="https://www.avito.ru/volgogradskaya_oblast/drugie_zhivotnye?q=%D1%81%D0%B2%D0%B8%D0%BD%D1%8C%D0%B8">Купить свинью.</a>
+    </header>
+    <body style="font-family:sans-serif;background-color:#FFC0CB">
+        <h1 style="text-align:center;font-size:50px">Продажа свиней</h1>
+        <h2 style="text-align:center;font-size:50px">MICROVOLNOVKA</h2>
+        <img src="https://img.freepik.com/free-photo/group-of-pigs-domestic-animals-at-pig-farm_342744-522.jpg" width="700px" height="420px"/>
+        <h2>Мы продаем разных свиней! Таких как:</h2>
+        <p>Толстые<br/>Худые<br/>Уродливые<br/>Красивые<br/>И т.д.</p>
+        <img src="https://static.irk.ru/media/img/site/gallery/30630/5e9f2f5d-f328-4d22-b4d8-f7ab9c940eba_jpg_800x600_x-False_q85.jpg" width="200px" height="130px"/>
+        <h2>Наша компания называется microvolnovka потому что...</h2>
+        <p>Потому что это первое что я увидыл при рождении..</p>
+        <img src="https://cdn.botanichka.ru/wp-content/uploads/2019/10/chem-kormit-sviney-05.jpg" width="200px" height="130px"/>
+
+
+        <footer style="background-color:lightpink;font-size:40px;font-family:impact;color:white">Лайк если сайт понравился<3</footer>
+        </body>
+</html>
